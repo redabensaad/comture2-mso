@@ -6,5 +6,4 @@ Gestion complète de la chaîne des ventes et des clients : Devis, commandes, bo
 
 Comture2.MSO en téléchargement gratuit sur :
 
-https://reda-mss.github.io/comture2-mso/
-https://comture-mso.000webhostapp.com/
+https://comture-mso.ml

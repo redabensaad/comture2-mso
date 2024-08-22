@@ -6,4 +6,4 @@ Gestion complète de la chaîne des ventes et des clients : Devis, commandes, bo
 
 Comture2.MSO en téléchargement gratuit sur :
 
-https://comture-mso.ml
+https://archive.org/details/comture2-mso
